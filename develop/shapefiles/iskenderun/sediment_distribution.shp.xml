@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20150609</CreaDate><CreaTime>16194000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="D:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20150609" Time="161940">RasterToPolygon sediment "D:\study\METU projects\Iskenderun bay\shapefile\sediment_distribution.shp" SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>

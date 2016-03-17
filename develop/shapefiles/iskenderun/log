@@ -1,0 +1,4 @@
+201506091619   0     0     0Alimjan D:\study\METUPR~1\ISKEND~1\SHAPEF~1\sediment_distribution.shp = GRIDSHAPE(D:\study\METU projects\Iskenderun bay\Raster\sediment,
+201506091624   0     0     0Alimjan D:\study\METU projects\Iskenderun bay\shapefile\Gravel_int = IDW(GSA_Ergin1996,  'Gravel_pc', #,
+201506091631   0     0     0Alimjan D:\study\METU projects\Iskenderun bay\shapefile\gravel_int2 = IDW(GSA_Ergin1996,  'Gravel_pc', #, 2
+201506091636   0     0     0Alimjan D:\study\METU projects\Iskenderun bay\shapefile\gravel_int3 = IDW(GSA_Ergin1996,  'Gravel_pc', #, 2
